@@ -5,7 +5,7 @@
  
  - ✌🏼 17 anos
  - 🔍 Procurando oportunidades
- - 🌎 Brasil
+ - 🌎 Capital de SP
  - 📚 Melhorando o inglês
 
 >
