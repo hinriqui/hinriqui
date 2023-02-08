@@ -1,5 +1,5 @@
  
-### Olá!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">
+### Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">
 
  Eu sou o Henrique, um desenvolvedor fullstack jr formado como técnico em desenvolvimento de sistemas no SENAI!
  
